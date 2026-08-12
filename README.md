@@ -1,168 +1,49 @@
-<h1 align="center">Hi there, I'm Hrishav Raj 👋</h1>
+  
+    
 
-<h3 align="center">
-  <a href="https://github.com/Hrishav720/Multi-Agent-Collaborative-RAG-System">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Generative+AI+%7C+RAG+%26+Multi-Agent+Systems;Backend+Developer+%7C+Python+%2B+FastAPI;LLM+Integration+%7C+LangChain+%2F+LangGraph;Building+scalable+AI-powered+applications" alt="Typing SVG" />
-  </a>
-</h3>
+    
+ ## ðŸ‘‹ About Me I'm a final-year **Computer Science** student who builds things at the intersection of **Generative AI, Machine Learning, and backend engineering**. I like taking an idea all the way from "what if we retrieved the right context and let agents reason over it" to a deployed, working application with a real API and UI behind it. 
+ðŸ¤–
+AI Engineer
+RAG & Corrective RAG, Multi-Agent orchestration (LangGraph, CrewAI), prompt engineering, hallucination detection & evaluation frameworks 	ðŸ§ 
+ML Engineer
+Model training & fine-tuning, NLP, embeddings, PyTorch, Scikit-learn, LLM evaluation, applied deep learning 	âš™ï¸
+Backend Developer
+FastAPI services, database design (SQL/SQLite), scalable app architecture, deployment 	ðŸ”Œ
+API Developer
+REST API design, LLM integration (OpenAI, HuggingFace, Ollama), third-party API orchestration (Tavily, Stable Diffusion) 
+- ðŸŽ“ B.Tech Computer Science @ **Rungta College of Engineering and Technology** â€” GPA **8.1**, graduating **June 2026** - ðŸ§© Deep focus on **RAG & CRAG pipelines**, **multi-agent systems**, and **LLM-powered applications** - âš¡ Full-stack AI builder: retrieval â†’ agent orchestration â†’ API â†’ deployed UI, end to end - ðŸ 1st Place â€” Cricket & Kabaddi, District level - ðŸ‘¥ Led a 4-member academic project team â€” task delegation, progress tracking, and delivery ownership - ðŸ’¬ Ask me about: RAG/CRAG design, LangGraph agent workflows, vector databases, or FastAPI backends  ## ðŸ› ï¸ Tech Stack **Languages** 
+  
+**Generative AI & LLMs** 
+          
+**Frameworks & Backend** 
+  
+**ML & Data** 
+       
+**Databases & Vector Stores** 
+    
+**Core CS** 
+    
+**Tools** 
+    
+ ## ðŸš€ Projects ### ðŸ§  Multi-Agent Collaborative RAG System [![GitHub](https://img.shields.io/badge/Repo-View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Hrishav720/Multi-Agent-Collaborative-RAG-System) Multi-agent RAG pipeline built with **LangGraph**, featuring adaptive retrieval, semantic search, and context-aware reasoning. Includes document grading, context-sufficiency validation, and iterative retrieval workflows to improve response accuracy. Built a **critic-based hallucination detection module** and an automated evaluation framework for reliable, grounded responses. `LangGraph` `RAG` `Multi-Agent Systems` `Hallucination Detection` `Evaluation Framework` 
+### ðŸ©¹ CRAG â€” Corrective Retrieval-Augmented Generation [![Notebook](https://img.shields.io/badge/View-Notebook-181717?style=flat-square&logo=jupyter)](#) A **Corrective RAG** system built with **LangGraph + FAISS**. Retrieved chunks are scored by an LLM-based document evaluator against upper/lower confidence thresholds, producing a **CORRECT / AMBIGUOUS / INCORRECT** verdict. Context is then decomposed into sentence-level "strips," filtered for relevance by a strict LLM filter, and refined â€” with a **Tavily web-search fallback** that kicks in automatically whenever local retrieval is insufficient or ambiguous. `LangGraph` `FAISS` `HuggingFace Embeddings` `Corrective RAG` `Tavily Web Search` `Structured Output (Pydantic)` 
+### ðŸ’¬ Persistent AI Chatbot with Memory [![Live Demo](https://img.shields.io/badge/Live-Demo-4CC9F0?style=flat-square&logo=streamlit&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/Repo-View_on_GitHub-181717?style=flat-square&logo=github)](#) Stateful chatbot powered by **Meta LLaMA 3.1 8B Instruct** with multi-session memory support. Implemented a RAG pipeline using **LangChain** and **SQLite** with LangGraph's `SQLiteSaver` checkpointer, and deployed a scalable agent workflow behind an interactive **Streamlit Cloud** UI. `LangChain` `LangGraph` `LLaMA 3.1` `SQLite` `Streamlit` 
+### âœï¸ Multi-Agent Blog Generation System [![Live Demo](https://img.shields.io/badge/Live-Demo-4CC9F0?style=flat-square&logo=streamlit&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/Repo-View_on_GitHub-181717?style=flat-square&logo=github)](#) Multi-agent content generation system built with **GPT-4o Mini**, LangChain, and LangGraph. Integrated the **Tavily Search API** for real-time data retrieval and **Stable Diffusion** for image generation, with structured content pipelines designed through prompt engineering and agent orchestration. `GPT-4o Mini` `LangGraph` `Tavily Search API` `Stable Diffusion` `Prompt Engineering` 
+### ðŸ“‰ Customer Churn Analysis with RAG [![GitHub](https://img.shields.io/badge/Repo-Add_link-181717?style=flat-square&logo=github)](#) *(Add repo link + details here â€” e.g. dataset used, churn prediction model, and how RAG was layered in to generate natural-language insights/explanations for churn drivers.)* `RAG` `Churn Prediction` `Machine Learning`  ## ðŸŽ“ Education 
+Institution	Degree / Level	Score	Duration
+Rungta College of Engineering and Technology, Bhilai	Bachelor of Technology, Computer Science	GPA: 8.1	Oct 2022 â€“ Jun 2026
+St. Joseph's Sr. Sec. School, Muzaffarpur	Intermediate	89.0%	Apr 2021 â€“ May 2022
+Novel Creative Academy, Hajipur	Matriculation	92.4%	Apr 2019 â€“ Apr 2020
+ ## ðŸ“œ Certifications - ðŸ… **Artificial Intelligence & Machine Learning** â€” CODING SPOON - ðŸ… **Data Structures & Algorithms** â€” Udemy  ## ðŸ† Achievements - ðŸ§® Solved **200+ DSA problems** on LeetCode & HackerEarth, covering advanced patterns: 
+         
+- ðŸ **1st Place** in Cricket and Kabaddi at District level - ðŸ‘¥ **Academic Project Team Lead** â€” led a team of 4, delegated tasks, tracked progress, supported thesis preparation, and maintained quality standards while improving team productivity  ## ðŸ“Š GitHub Stats 
+  
+ 
+ 
+ 
+ ## ðŸ“« Let's Connect 
+ðŸ“§ hrishavraj2004@gmail.com  |  ðŸ“± +91 6201881274  |  ðŸ’¼ LinkedIn  |  ðŸ™ GitHub 
 
-<p align="center">
-  <a href="https://linkedin.com/in/hrishavraj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hrishavraj2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+916201881274"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://github.com/Hrishav720"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🎓 B.Tech Computer Science student at **Rungta College of Engineering and Technology** (GPA: 8.1), graduating **June 2026**
-- 🤖 Focused on **Generative AI** — Retrieval-Augmented Generation (RAG, CRAG), Multi-Agent Systems, and LLM evaluation
-- ⚙️ Comfortable building **end-to-end AI apps**: retrieval pipelines → agent orchestration → API → deployed UI
-- 🌱 Currently exploring deeper **agentic workflows** with LangGraph and CrewAI
-- 🏆 Solved **200+ DSA problems** on LeetCode & HackerEarth (Sliding Window, Hashing, Two Pointers, Binary Search on Answer, Monotonic Stack, Trees & Graphs)
-- 🏏 1st Place in Cricket and Kabaddi at District level
-- 💬 Ask me about: RAG pipelines, LangGraph agent design, vector databases, or FastAPI backends
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-**Generative AI & LLMs**
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LLaMA-0467DF?style=flat-square" />
-  <img src="https://img.shields.io/badge/BERT-FFA500?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG%20%2F%20CRAG-6A5ACD?style=flat-square" />
-</p>
-
-**Frameworks & Backend**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</p>
-
-**ML & Data**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-</p>
-
-**Databases & Vector Stores**
-<p>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-4285F4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
-</p>
-
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🧠 [Multi-Agent Collaborative RAG System](https://github.com/Hrishav720/Multi-Agent-Collaborative-RAG-System)**
-Multi-agent RAG pipeline built with **LangGraph**, featuring adaptive retrieval, semantic search, and context-aware reasoning. Includes document grading, context-sufficiency validation, iterative retrieval, and a critic-based hallucination detection module with an automated evaluation framework.
-`LangGraph` `RAG` `Hallucination Detection`
-
-</td>
-<td width="50%" valign="top">
-
-**🩹 CRAG — Corrective RAG Pipeline**
-A Corrective RAG system built with **LangGraph + FAISS**. Retrieved chunks are scored by an LLM grader against upper/lower thresholds (CORRECT / AMBIGUOUS / INCORRECT); context is decomposed into sentence-level "strips" and filtered for relevance, with a **Tavily web-search fallback** triggered automatically when local retrieval is insufficient.
-`LangGraph` `FAISS` `Corrective RAG` `Tavily`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**💬 Persistent AI Chatbot with Memory**
-Stateful chatbot powered by **Meta LLaMA 3.1 8B Instruct** with multi-session memory. RAG pipeline built using LangChain and SQLite via LangGraph's `SQLiteSaver` checkpointer, deployed with an interactive Streamlit UI.
-`LangChain` `LangGraph` `SQLite` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
-
-**✍️ Multi-Agent Blog Generation System**
-Multi-agent content generation system using **GPT-4o Mini**, LangChain, and LangGraph, with **Tavily Search API** for real-time data and **Stable Diffusion** for image generation. Structured content pipelines via prompt engineering and agent orchestration.
-`GPT-4o Mini` `LangGraph` `Stable Diffusion`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📉 Customer Churn Analysis with RAG**
-*(Add your repo link + a short description here — e.g. dataset used, churn prediction approach, and how RAG was layered in for insight generation/explanation.)*
-`RAG` `Churn Prediction` `ML`
-
-</td>
-<td width="50%" valign="top">
-
-**➕ More on the way**
-This section updates as new projects ship — check my [pinned repos](https://github.com/Hrishav720?tab=repositories) for the latest.
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hrishav720&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishav720&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishav720&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hrishav720&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishav720&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:hrishavraj2004@gmail.com">📧 hrishavraj2004@gmail.com</a> &nbsp;|&nbsp;
-  📱 +91 6201881274 &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/hrishavraj">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/Hrishav720">🐙 GitHub</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hrishav720&style=flat-square&color=blue" alt="Profile views" />
-</p>
+ 
+ 
